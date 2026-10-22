@@ -10,11 +10,11 @@ Related manuscript: **Manufacturable axial modification of arbitrary-shaft bevel
 | --- | --- |
 | `concave.vcproject` | Project configured for the supplied concave reference model and NC program |
 | `convex.vcproject` | Project configured for the supplied convex reference model and NC program |
-| `NC程序/Nonlinear_Beveloid_Gear_concave.nc` | Supplied concave machining program |
-| `NC程序/Nonlinear_Beveloid_Gear_convex.nc` | Supplied convex machining program |
-| `模型/concave.stp`, `模型/convex.stp` | Analytical reference geometries |
-| `模型/gearblank.stp` | Gear blank geometry |
-| `vericut文件/` | Machine, control, tool libraries and supporting geometry |
+| `NC_program_code/Nonlinear_Beveloid_Gear_concave.nc` | Supplied concave machining program |
+| `NC_program_code/Nonlinear_Beveloid_Gear_convex.nc` | Supplied convex machining program |
+| `Model_file/concave.stp`, `Model_file/convex.stp` | Analytical reference geometries |
+| `Model_file/gearblank.stp` | Gear blank geometry |
+| `vericut_file/` | Machine, control, tool libraries and supporting geometry |
 | `Prepare_Local_Paths.ps1` | Creates local copies of configurations with resolved file paths |
 | `validation_report.json` | Static package checks and NC motion summaries |
 | `SHA256SUMS.txt` | Checksums of the distributed files |
