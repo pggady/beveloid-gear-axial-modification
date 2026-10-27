@@ -19,7 +19,7 @@ Related manuscript: **Manufacturable axial modification of arbitrary-shaft bevel
 | `validation_report.json` | Static package checks and NC motion summaries |
 | `SHA256SUMS.txt` | Checksums of the distributed files |
 
-The active tool library is `vericut文件/hobv4_tools_mm.tls`. Both NC programs select tool T3; its referenced `m6-gundaoV3_95869_0_mm.ply` geometry is included. Other supplied tool libraries are retained as supporting material, not substituted for T3.
+The active tool library is `vericut_file/hobv4_tools_mm.tls`. Both NC programs select tool T3; its referenced `m6-gundaoV3_95869_0_mm.ply` geometry is included. Other supplied tool libraries are retained as supporting material, not substituted for T3.
 
 ## Requirements
 
@@ -64,7 +64,7 @@ The full SLTCA solver is not included. The geometry comparisons concern virtual 
 
 ## Software and Third Party Materials
 
-VERICUT software and licenses are not included. No blanket open source license is assigned to vendor control definitions or third party machine assets. Their applicable terms and redistribution permissions must be confirmed by the repository owner before public release.
+VERICUT software and licenses are not included. No blanket open source license is assigned to vendor control definitions or third party machine assets. These materials are provided only for verifying the simulations reported in the related manuscript, and their use remains subject to the terms of the respective vendors.
 
 ## Questions
 
